@@ -1,0 +1,7 @@
+.container-fluid{
+    padding-top: 59px;
+    background-color: #ffffff;
+}
+.z-index-nav-fixed{
+    z-index: 1060;
+}
